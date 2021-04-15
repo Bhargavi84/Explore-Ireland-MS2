@@ -126,6 +126,10 @@ h1 {
   padding-top: 0.7rem;
 }
 
+.btn.showContent{
+    display: inline-block;
+}
+
 .btn-primary:hover {
   color: rgb(105, 102, 102);
   background-color: #fff;
