@@ -1,7 +1,9 @@
+//Adding Google maps
+
 function initMap() {
   const options = {
-    center: { lat: 53.1424, lng: 7.6921 },
-    zoom: 3
+    center: { lat: 53.3498, lng: 6.2603 },
+    zoom: 4
   };
    
   const map = new
@@ -11,7 +13,7 @@ function initMap() {
             {
                 coordinates: {lat:52.9715, lng:9.4309}, //   
                 content: '<h4>Cliffs of Moher</h4>',
-                info: `<img class="img-fluid" src="assets/images/" alt="Jeti-Oguz ">
+                info: `<img class="img-fluid" src="assets/images/" alt="">
                 <h4 class="py-4"></h4>
                 <p>.</p>`
             },
@@ -53,15 +55,15 @@ function initMap() {
 
       
     
-    function addMarker(props) {
+    function addMarker(properties) {
         const marker = new google.maps.Marker({
-        position: props.coordinates,
+        position: properties.coordinates,
         map: map,        
         });
 
-        if(props.content){
+        if(properties.content){
             const infowindow = new google.maps.InfoWindow({
-                content:props.content
+                content:properties.content
             });
             
             marker.addListener('mouseover', function(){
