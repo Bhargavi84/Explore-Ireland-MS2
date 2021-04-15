@@ -73,3 +73,17 @@ body p {
   object-fit: cover;
    
 }
+/*-- History & Culture Page--*/
+/*--About Section--*/
+h1 {
+  letter-spacing: .08rem;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 2rem;
+  font-size: 2.5rem;
+}
+
+.main {
+  max-width: 1200px;
+  margin: 0 auto;
+}
