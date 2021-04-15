@@ -40,3 +40,28 @@ body p {
 .nav-link.active {
   color: #4E4E4E;
 }
+
+/*-- Covid-alert --*/
+.covid-alert {
+  text-align: center;
+  background-color: rgba(63, 43, 248, 0.979);
+  line-height: normal;
+}
+
+.covid-alert p{
+  padding-top: 0.5rem;
+  display: block;
+  color: #fff;
+  margin-bottom: 0.6rem;
+  
+}
+
+.covid-alert a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.covid-link {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
