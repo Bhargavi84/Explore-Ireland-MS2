@@ -1,14 +1,15 @@
 //Adding Google maps
 
 function initMap() {
-  const options = {
-    center: { lat: 53.3498, lng: 6.2603 },
-    zoom: 4
-  };
-   
-  const map = new
-  google.maps.Map(document.getElementById("map"), options);
-
+    var map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 3,
+                center: {
+                    lat: 53.3498,
+                    lng: 6.2603
+                }
+            });
+    
+  
         const markers =[
             {
                 coordinates: {lat:52.9715, lng:9.4309}, //   
