@@ -126,16 +126,24 @@ h1 {
   padding-top: 0.7rem;
 }
 
-.btn.showContent{
-    display: inline-block;
-}
-
 .btn-primary:hover {
   color: rgb(105, 102, 102);
   background-color: #fff;
   transition: all 0.4s ease-in-out;
   
 }
+.more {
+  display: none;
+}
+
+.card-body.open .more {
+  display: inline;
+}
+
+.card-body.open .dots {
+  display: none;
+}
+
 
 /*-------Explore Ireland and Map Section--------*/
 
