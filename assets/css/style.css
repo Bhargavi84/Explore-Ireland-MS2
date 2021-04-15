@@ -41,7 +41,7 @@ body p {
   color: #4E4E4E;
 }
 
-/*-- Covid-alert --*/
+/*------- Covid-alert---------*/
 .covid-alert {
   text-align: center;
   background-color: rgba(63, 43, 248, 0.979);
@@ -73,7 +73,7 @@ body p {
   object-fit: cover;
    
 }
-/*-- History & Culture Page--*/
+/*---------- History & Culture Page-----------*/
 /*--About Section--*/
 h1 {
   letter-spacing: .08rem;
@@ -86,4 +86,49 @@ h1 {
 .main {
   max-width: 1200px;
   margin: 0 auto;
+}
+/*---------Cards Section--------*/
+
+.card {
+  box-shadow: 0 5px 5px rgba(0, 0, 0, .08);
+}
+
+.card-zoom {
+  position: relative;
+  overflow: hidden;
+}
+
+.card-zoom:hover img {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+}
+
+.card-zoom img {
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+}
+
+#history-cards {
+  max-width: 1200px;
+  margin: 0 auto;
+  object-fit: none;
+  
+ 
+}
+
+.card-title {
+  padding-top: 1rem;
+}
+
+.card-text {
+  padding-top: 0.7rem;
+}
+
+.btn-primary:hover {
+  color: rgb(105, 102, 102);
+  background-color: #fff;
+  transition: all 0.4s ease-in-out;
+  
 }
