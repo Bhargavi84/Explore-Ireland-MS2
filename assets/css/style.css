@@ -112,8 +112,6 @@ h1 {
   max-width: 1200px;
   margin: 0 auto;
   object-fit: none;
-  
-  
  
 }
 
@@ -132,8 +130,9 @@ h1 {
   
 }
 .card-body{
-    height:fit-content ;
-}
+    max-height: fit-content;
+}  
+
 .more {
   display: none;
 }
