@@ -157,3 +157,23 @@ h2 {
   width: 100%;
   padding-left: 10px;
 }
+
+/*----------Contact Form ---------*/
+#contact-form {  
+  margin: 0 auto;
+}
+
+.form-label-marker {
+  color: red;
+}
+
+ .btn-danger {
+  float: left;
+  min-width: 8rem;
+  padding: 0.5rem 1.5rem;
+  color:#fff;
+}
+.btn-danger:hover{
+background-color: #fff;
+color: #000;
+}
