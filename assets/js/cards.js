@@ -1,20 +1,20 @@
 // Read more Read less buttons
 
 
-var cards = document.querySelector('#history-cards');
+var box = document.querySelector('#history-cards');
 
-cards.addEventListener('click', function(e) {
-  var target = e.target; 
+box.addEventListener('click', function(event) {
+  var target = event.target; 
   if (target.classList.contains('btn')) {       
-    var cardBody = target.parentNode;
+    var boxBody = target.parentNode;
     var open = target.dataset.open === 'true';
     target.dataset.open = !open;
     if (open) {
-      target.innerText = 'Show more';
-      cardBody.classList.remove('open');
+      target.innerHtml = 'Show more';
+      boxBody.classList.remove('open');
     } else {
-      target.innerText = 'Show less';
-      cardBody.classList.add('open');
+      target.innerHtml = 'Show less';
+      boxBody.classList.add('open');
     }
   }  
 });
