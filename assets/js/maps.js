@@ -12,14 +12,14 @@ function initMap() {
   
         const markers =[
             {
-                coordinates: {lat:52.9715, lng:-9.4396372}, //   
+                coordinates: {lat:52.9714985, lng:-9.431077}, //   
                 content: '<h4>Cliffs of Moher</h4>',
                 info: `<img class="img-top img-fluid" src="assets/images/cliffs-of-Moher.jpeg" alt="">
                 <h4 class="py-4">Cliffs of Moher</h4>
                 <p>One of Ireland’s favourite visitor experiences and representing the best of Clare, the Cliffs of Moher tower over the rugged west Clare coast.  Walk the safe, paved pathways and view the famous Cliffs on Europe’s western frontier and enjoy the spectacular vistas over the Atlantic Ocean and the Aran Islands.   Their natural beauty has inspired artists, musicians, and poets for generations, as well as absorbing scientists and geologists, drawn by the unique landscape in which they sit.  The Cliffs of Moher, the most famous cliffs in Ireland, will leave you awestruck, creating memories that will stay with you forever.</p>`
             },
             {
-                coordinates: {lat:51.7690117, lng:-10.4319925}, // 
+                coordinates: {lat:51.8363298, lng:-9.9021226}, // 
                 content: '<h4>Ring of Kerry</h4>',
                 info: `<img class="img-top img-fluid" src="assets/images/Ring-of-Kerry.jpeg" alt="">
                 <h4 class="py-4">Ring of Kerry</h4>
@@ -33,7 +33,7 @@ function initMap() {
                 <p>Soaked in history and in a scenic coastal setting at the gateway to West Cork, Kinsale has been attracting large numbers of visitors for decades. It's one of the best small towns in Ireland for tourists.Occupying a stunning and unique headland reaching out over two miles into the Atlantic Ocean, A castle has been on the headland since at least the 3rd century,An early lighthouse was established here in the 17th century</p>`
             },
             {
-                coordinates: {lat:52.8285336, lng:-7.5261243}, // 
+                coordinates: {lat:53.0095271, lng:-6.3374194}, // 
                 content: '<h4>Glendalough Mountains</h4>',
                 info: `<img class="img-top img-fluid" src="assets/images/glendalough.jpeg" alt=""></br>
                 <h4 class="py-4">Glendalough Mountains</h4>

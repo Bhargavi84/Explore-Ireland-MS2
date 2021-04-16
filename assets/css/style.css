@@ -174,8 +174,13 @@ h2 {
 #gamebar .img-fluid{
  max-width: 100%;
  margin-top: 5px;
+ 
 }
 
+#gamebar img{
+    margin-left: 2px;
+    margin-right: 2px;    
+}
 #map {
   min-height: 650px;
   width: 100%;

@@ -21,5 +21,6 @@ function sendMail(contactForm) {
             'error'
             );
         });               
-    return false;  
-}
+     document.getElementById("contactForm").reset();
+    return false;    
+}                 
