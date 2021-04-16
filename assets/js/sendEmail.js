@@ -1,11 +1,5 @@
-
-   
-   (function(){
-      emailjs.init("user_939QPvlyvJr6mfHSwHiY2");
-   })();
- 
 function sendMail(contactForm) {
-    emailjs.send("gmail", "MS2" ,{
+    emailjs.send("gmail", "template_u6x0vpa" ,{
         "from_name": contactForm.name.value,
         "from_email": contactForm.emailaddress.value,
         "project_request": contactForm.projectsummary.value
