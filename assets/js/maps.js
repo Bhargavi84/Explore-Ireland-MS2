@@ -4,15 +4,15 @@ function initMap() {
     var map = new google.maps.Map(document.getElementById("map"), {
                 zoom: 3,
                 center: {
-                    lat: 53.3498,
-                    lng: 6.2603
+                    lat: 53.4174901,
+                    lng: -8.9034951
                 }
             });
     
   
         const markers =[
             {
-                coordinates: {lat:52.9715, lng:9.4309}, //   
+                coordinates: {lat:52.9715, lng:-9.4309}, //   
                 content: '<h4>Cliffs of Moher</h4>',
                 info: `<img class="img-fluid" src="assets/images/" alt="">
                 <h4 class="py-4"></h4>
@@ -26,21 +26,21 @@ function initMap() {
                 <p>.</p>`
             },
             {
-                coordinates: {lat:51.9108, lng:10.3549}, // 
+                coordinates: {lat:51.9108, lng:-10.3549}, // 
                 content: '<h4>Valentia Island</h4>',
                 info: `<img class="img-fluid" src="assets/images/ " alt="">
                 <h4 class="py-4"></h4>
                 <p>.</p>`
             },
             {
-                coordinates: {lat:53.0120, lng:6.3298}, // 
+                coordinates: {lat:53.0120, lng:-6.3298}, // 
                 content: '<h4>Glendalough, Co. Wicklow</h4>',
                 info: `<img class="img-fluid" src="assets/images/" alt=""></br>
                 <h4 class="py-4"></h4>
                 <p>.</p>`
             },
             {
-                coordinates: {lat:51.9291, lng:8.5709}, // 
+                coordinates: {lat:51.9291, lng:-8.5709}, // 
                 content: '<h4>Blarney Castle</h4>',
                 info: `<img class="img-fluid" src="assets/images/" alt=""></br>
                 <h4 class="py-4"></h4>
