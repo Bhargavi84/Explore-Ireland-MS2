@@ -4,8 +4,8 @@ function initMap() {
     var map = new google.maps.Map(document.getElementById("map"), {
                 zoom: 7,
                 center: {
-                    lat: 53.3623833,
-                    lng: -10.341731
+                    lat: 53.3689389,
+                    lng: -7.9796705
                 }
             });
     
@@ -30,7 +30,7 @@ function initMap() {
                 content: '<h4>The Old Head Kinsale</h4>',
                 info: `<img class="img-top img-fluid" src="assets/images/kinsale.jpeg" alt="">
                 <h4 class="py-4">The Old Head Kinsale</h4>
-                <p>Soaked in history and in a scenic coastal setting at the gateway to West Cork, Kinsale has been attracting large numbers of visitors for decades. It's one of the best small towns in Ireland for tourists.Occupying a stunning and unique headland reaching out over two miles into the Atlantic Ocean, A castle has been on the headland since at least the 3rd century, with the current iteration built in 1223. An early lighthouse was established here in the 17th century</p>`
+                <p>Soaked in history and in a scenic coastal setting at the gateway to West Cork, Kinsale has been attracting large numbers of visitors for decades. It's one of the best small towns in Ireland for tourists.Occupying a stunning and unique headland reaching out over two miles into the Atlantic Ocean, A castle has been on the headland since at least the 3rd century,An early lighthouse was established here in the 17th century</p>`
             },
             {
                 coordinates: {lat:52.8285336, lng:-7.5261243}, // 
