@@ -16,7 +16,7 @@ function initMap() {
                 content: '<h4>Cliffs of Moher</h4>',
                 info: `<img class="img-top img-fluid" src="assets/images/cliffs-of-Moher.jpeg" alt="Image of Cliffs of Moher,place in Ireland country">
                 <h4 class="py-4">Cliffs of Moher</h4>
-                <p class="pt-1">One of Ireland’s favourite visitor experiences and representing the best of Clare, the Cliffs of Moher tower over the rugged west Clare coast.  Walk the safe, paved pathways and view the famous Cliffs on Europe’s western frontier and enjoy the spectacular vistas over the Atlantic Ocean and the Aran Islands.   Their natural beauty has inspired artists, musicians, and poets for generations, as well as absorbing scientists and geologists, drawn by the unique landscape in which they sit.  The Cliffs of Moher, the most famous cliffs in Ireland, will leave you awestruck, creating memories that will stay with you forever.</p>`
+                <p>One of Ireland’s favourite visitor experiences and representing the best of Clare, the Cliffs of Moher tower over the rugged west Clare coast.  Walk the safe, paved pathways and view the famous Cliffs on Europe’s western frontier and enjoy the spectacular vistas over the Atlantic Ocean and the Aran Islands.Their natural beauty has inspired artists, musicians, and poets for generations, as well as absorbing scientists and geologists, drawn by the unique landscape in which they sit.  The Cliffs of Moher, the most famous cliffs in Ireland.</p>`
             },
             {
                 coordinates: {lat:51.8363298, lng:-9.9021226}, // 
