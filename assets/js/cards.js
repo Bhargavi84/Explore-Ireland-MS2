@@ -10,10 +10,10 @@ box.addEventListener('click', function(event) {
     var open = target.dataset.open === 'true';
     target.dataset.open = !open;
     if (open) {
-      target.innerHtml = 'Show more';
+      target.innerText = 'Show more';
       boxBody.classList.remove('open');
     } else {
-      target.innerHtml = 'Show less';
+      target.innerText = 'Show less';
       boxBody.classList.add('open');
     }
   }  
