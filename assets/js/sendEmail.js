@@ -1,15 +1,16 @@
 function sendMail(contactForm) {
-    emailjs.send("gmail", "template_u6x0vpa" ,{
+    console.log(contactForm);
+    emailjs.send("MS2", "template_u6x0vpa" ,{
         "from_name": contactForm.name.value,
-        "from_email": contactForm.emailaddress.value,
-        "info_message": contactForm.message.value,
+        "reply_to": contactForm.email.value,
+        "message": contactForm.message.value,
         "newsletter_request": contactForm.newsletter.value
     })
-    then(
+    .then(
             function () {           
             Swal.fire(
-            'Thank you for contacting us!',
             'Message sent!',
+            'Thank you, We will get back to you soon',
             'success'
             );
         },        
@@ -21,6 +22,6 @@ function sendMail(contactForm) {
             'error'
             );
         });               
-     document.getElementById("contactForm").reset();
+     document.getElementById("contact-form").reset();
     return false;    
 }                 
