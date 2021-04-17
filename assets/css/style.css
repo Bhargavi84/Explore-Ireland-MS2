@@ -269,8 +269,8 @@ ul.social li a i {
 /*----------@Media Queries ---------*/
 
 @media(min-width: 280px) {
-    .gamebar-text{
-        font-size: small;
+    .gamebar-text p{
+        font-size: medium;
     }
 
     #map p{
