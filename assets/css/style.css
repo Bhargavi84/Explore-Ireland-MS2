@@ -212,7 +212,7 @@ background-color: #fff;
 color: #000;
 }
 
-/*--Footer--*/
+/*---------------------Footer--------------*/
 footer {
   width: 100%;
   background-color: #7a7979;
@@ -231,7 +231,6 @@ footer a {
 
 ul.social {
   list-style-type: none;
-  display: flex;
   margin: 0 auto;
   padding: 0;
 }
@@ -239,6 +238,7 @@ ul.social {
 ul.social li {
   
   font-size: 1.8rem;
+  display: inline;
   padding: 0;
   margin: 0 auto 0;
   
@@ -260,4 +260,37 @@ ul.social li a i {
   text-decoration: none;
   color: #fff;
   padding: 0;
+}
+
+/*----------@Media Queries ---------*/
+
+@media(min-width: 280px) {
+    .gamebar-text{
+        font-size: small;
+    }
+
+    #map p{
+        font-size:small;
+    }
+    .social ul{
+                padding: 0 3 0 3rem; 
+                
+    }
+    .covid-alert p{
+        font-size: 15px;
+    }
+    
+    #history h1{
+        
+        font-size: 30px;
+        }
+    #history h1 p{
+        font-size: 13px;
+    }
+    #explore h2{
+        font-size: 30px;
+    }
+     #contact h2{
+        font-size: 30px;
+    }
 }
