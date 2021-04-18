@@ -219,17 +219,10 @@ ul.social {
   list-style-type: none;
   margin: 0 auto;
   padding: 0;
-}
-
-ul.social {
-  
   font-size: 1.8rem;
   display: inline-flex;
-  padding: 0px 0px 2px 0px ;
-  margin: 0 auto;
- 
-  
 }
+
 
 ul.social li a i {
   color: white;
@@ -262,7 +255,7 @@ ul.social li a i {
         object-fit: cover;
     }
     .social ul{
-                padding: 0 3 0 3rem; 
+                padding: 0; 
                 
     }
     .covid-alert p{
@@ -271,15 +264,15 @@ ul.social li a i {
     
     #history h1{
         
-        font-size: 30px;
+        font-size: 25px;
         }
     #history h1 p{
         font-size: 13px;
     }
     #explore h2{
-        font-size: 30px;
+        font-size: 25px;
     }
      #contact h2{
-        font-size: 30px;
+        font-size: 25px;
     }
 }
