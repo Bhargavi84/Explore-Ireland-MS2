@@ -220,12 +220,12 @@ ul.social {
   padding: 0;
 }
 
-ul.social li {
+ul.social {
   
   font-size: 1.8rem;
-  display: inline;
+  display: inherit;
   padding: 0;
-  margin: 0 auto 0;
+  margin: 0 0 auto;
   
   
 }
@@ -233,7 +233,7 @@ ul.social li {
 ul.social li a i {
   color: white;
   transition: all 0.4s ease-out;
-    
+  
   
 }
 
