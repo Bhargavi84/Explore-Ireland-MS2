@@ -176,21 +176,12 @@ h2 {
  margin-top: 5px;
  
 }
-/*--------------------Back To Top Button-----------------*
-#myBtn a{
-  color: black;
-}
-#myBtn: hover{
-  background-color: rgb(105, 102, 102);
-}
-
 
 
 /*----------Contact Form ---------*/
 #contact-form {  
   margin: 0 auto;
 }
-
 
  .btn-danger {
   float: left;
@@ -203,6 +194,26 @@ background-color: #fff;
 color: #000;
 }
 
+/*--------------------Back To Top Button-----------------*/
+#backtotop .btn{
+    background-color: red;
+    color: white;
+    
+}
+#backtotop .btn a{
+        color: white;
+    
+}
+
+#backtotop .btn-1:hover{
+        background-color: white;
+        color: black;
+    
+}
+#backtotop .btn-1 a:hover{
+        color: black;
+    
+}
 /*---------------------Footer--------------*/
 footer {
   width: 100%;
