@@ -196,7 +196,7 @@ color: #000;
 
 /*--------------------Back To Top Button-----------------*/
 #backtotop .btn{
-    background-color: red;
+    background-color: rgb(224, 57, 57);
     color: white;
     
 }
@@ -205,12 +205,13 @@ color: #000;
     
 }
 
-#backtotop .btn-1:hover{
+#backtotop .btn:hover{
         background-color: white;
         color: black;
+        border: solid;
     
 }
-#backtotop .btn-1 a:hover{
+#backtotop .btn a:hover{
         color: black;
     
 }
