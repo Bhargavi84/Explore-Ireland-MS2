@@ -109,6 +109,10 @@ ___
 ___
 * HTML Markup Validation Service - [Pass](https://validator.w3.org/)
 * CSS Validation Service - [Pass](https://jigsaw.w3.org/css-validator/)
+* JS Validation by https://jshint.com/
+    ** cards.js - Cyclomatic complexity number for this function is 3.
+    ** maps.js - The most complex function has a cyclomatic complexity value of 2 while the median is 1
+    ** sendEmail.js - The most complex function has a cyclomatic complexity value of 1 while the median is 1. 
 ## Further Testing
 ___
 ### Functionality Testing
@@ -148,8 +152,8 @@ as intended, allowing 5 seconds delay between automatically cycling the images.
 * The Contact Form has been correctly linked to EmailJS and sends an email every time users submit the form.
      
 * **Go to Top button**
-*The Top button which is inserted just below the contact form right side of the screen.
-*When the button is clicked it will take to the top of the screen, works as expected.
+* The Top button which is inserted just below the contact form right side of the screen.
+* When the button is clicked it will take to the top of the screen, works as expected.
 
 * **Footer**
 * Footer is responsive and always stays on the bottom of the page. This have been tested by reducing / increasing the screen width and is working as intended.
