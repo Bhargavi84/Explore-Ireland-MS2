@@ -59,5 +59,11 @@ ___
 * To showcase the best places to visit.
 * To ensure users are able to get in touch through the Contact Form.
 
+### Scope
+___
+To create a website that will help the users get motivated to plan their travel next to Ireland. 
+The website has been divided into different section so that user can easily look into that and the infomation are easy and understanble way so that  they can plan their next trip.
+
+
 
 
