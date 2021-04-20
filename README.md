@@ -22,4 +22,42 @@ ___
   * [Credits](#credits)
   * [Acknowledgements](#acknowledgements)
 
+## UX
+___
+### **This website will help to:**
+___
+* **People with no travel plans in mind (yet) or deciding where to go:**
+    1. I want to get inspiration for my next travel experience.
+    2. I want to be able to understand what kind of place I am being offered and explore it from the comfort of my own home.    
+    3. I want to read more about the information that I'm interested in.   
+    4. I want to know how interactive the website is.
+
+![User Stories 1](assets/images/.jpg)
+
+* **People making their  bookings**
+    * I want to find out latest Covid-19 travel advice Ireland.
+    * I can easily use and accessible simple navigation bar to select the section of the website.
+    * I want to see random images of new locations I could visit.
+    * I want to have access to all necessary travel information I need to plan my trip.
+    * I can click the featured button to receive a newsletter for more updates.
+![User Stories 2](assets/images/.jpg)
+
+* **People who are travelling inside the Ireland**
+    * I want to to use the map to find exiting places to visit and make quick decisions.
+    * I want to use the website's Social Media for more inspiration.
+    * I want to get in touch if I have any queries.
+
+
+![User Stories 3](assets/images/.jpg)     
+
+### Strategy
+___
+**Project goals:**
+* To provide a finest experience to explore Ireland to all potential travellers.
+* To promote and convey the beauty of the country.
+* To enable easy access to the information needed to plan their trip.
+* To showcase the best places to visit.
+* To ensure users are able to get in touch through the Contact Form.
+
+
 
