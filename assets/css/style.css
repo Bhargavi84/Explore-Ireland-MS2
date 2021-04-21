@@ -309,3 +309,9 @@ ul.social li a i {
 		font-size: 25px;
 	}
 }
+@media(min-width: 720px) {
+    .pb-4, .py-4 {
+    padding-bottom: 0rem!important;
+}
+
+}

@@ -1,3 +1,5 @@
+// Adding EmailJs template ID and connecting to Gmail with polite response
+
 function sendMail(contactForm) {
     console.log(contactForm);
     emailjs.send("MS2", "template_u6x0vpa" ,{

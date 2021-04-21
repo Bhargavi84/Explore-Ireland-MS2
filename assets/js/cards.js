@@ -1,4 +1,4 @@
-// Read more Read less buttons
+// Show more Show less buttons
 
 
 var box = document.querySelector('#history-cards');
