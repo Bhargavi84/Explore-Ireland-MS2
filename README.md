@@ -229,7 +229,7 @@ find the information they were looking for and easily understand the purpose of 
 ### Performance Testing
 ___
 Performance testing was carried out using Chrome Developer Tools. It has shown excellent performance and accessibility results for desktop devices.
-* Webiste has been loaded in the multiple divces at same time.
+* Website has been loaded in the multiple devices at same time.
 * Images were resized and compressed multiple times to improve the loading speed of the website.  
 
 ### Compatibility Testing
@@ -260,7 +260,7 @@ There is no difference between the deployed version and the development version.
 ### Design
 ___
 
-* Motiavtion by Visit-Kyrgyzstan
+* Motivation by Visit-Kyrgyzstan
 * Motivation by Explore-national-parks-of-japan
 * Ideas from my mentor Excellence Ilesanmi
 ___
