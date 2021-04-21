@@ -192,7 +192,43 @@ It was then published using GitHub Pages directly from the _master branch_ by fo
 
 There is no difference between the deployed version and the development version.
 
+## Credits
 
+### Design
+___
+
+* Nazulka/MS2-Visit-Kyrgyzstan
+* Explore-national-parks-of-japan
+* Ideas from 
+___
+
+### Code 
+___
+* Bootstrap documentation for Buttons, Card, Carousel and Navbar.
+* StackOverflow forum for Multiple "Show More" / "Show Less" buttons in cards section. 
+* SweetAlert2 customized alert messages library. 
+* Mapjs and EmailJs from CI Walkthrough projects and https://console.cloud.google.com/ for google API and EmailJS for connecting Submit button to email.
+* w3 schools - https://www.w3schools.com/
+
+
+### Content
+___
+
+* https://www.nordicvisitor.com/blog/10-reasons-visit-ireland/
+* https://www.planetware.com/tourist-attractions/ireland-irl.htm
+* https://en.wikipedia.org/wiki/Ireland
+
+### Media
+___
+
+* The images used in this website were obtained from https://unsplash.com/
+* The images resizing by by https://picresize.com/
+
+### Acknowledgements
+___
+* My mentor **Excellence Ilesanmi** for his continuous support and feedback throughout this project.
+* CI Student careb,Tutors and Slack Community for help and support.
+* This project is purely educational purpose only. 
 
 
 
