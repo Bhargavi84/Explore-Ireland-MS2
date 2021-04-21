@@ -158,7 +158,7 @@ as intended, allowing 5 seconds delay between automatically cycling the images.
 * **Footer**
 * Footer is responsive and always stays on the bottom of the page. This have been tested by reducing / increasing the screen width and is working as intended.
 * Change of colour and transition effects on hovering over Social Icons have been tested and working as intended.
-* Click on each Social icon revealed that links are functioning as intended and open in new tabs.
+* Click on each Social icon all the links are functioning as intended and opens in new tab.
     
 ### Usability Testing
 ___
@@ -197,9 +197,9 @@ There is no difference between the deployed version and the development version.
 ### Design
 ___
 
-* Visit-Kyrgyzstan
-* Explore-national-parks-of-japan
-* Ideas from 
+* Motiavtion by Visit-Kyrgyzstan
+* Motivation by Explore-national-parks-of-japan
+* Ideas from my mentor Excellence Ilesanmi
 ___
 
 ### Code 
@@ -209,6 +209,7 @@ ___
 * SweetAlert2 customized alert messages library. 
 * Mapjs and EmailJs from CI Walkthrough projects and https://console.cloud.google.com/ for google API and EmailJS for connecting Submit button to email.
 * w3 schools - https://www.w3schools.com/
+* https://codepen.io/
 
 
 ### Content
@@ -221,7 +222,7 @@ ___
 ### Media
 ___
 
-* The images used in this website were obtained from https://unsplash.com/
+* The images used in this website were obtained from https://unsplash.com/ , https://stock.adobe.com/ 
 * The images resizing by  https://picresize.com/
 
 ### Acknowledgements
