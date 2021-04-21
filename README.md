@@ -100,6 +100,8 @@ which is compatible with all modern browsers. The components used: navigation, b
 * Google maps API - used to embed Google Maps into the website, to provide users with the locations information.
 * EmailJS API - to create an email template and enable users to send emails directly without using the server.
 * SweetAlert2 - an interactive custom modal window, provides a status confirmation (success / fail) when users submit a form on the website.
+* HTML validator and formatter https://validator.w3.org/, https://www.freeformatter.com/html-formatter.html
+* CSS Validator Beutifier https://jigsaw.w3.org/css-validator/, https://www.freeformatter.com/css-beautifier.html
 
 ### Future Features
 ___
@@ -236,6 +238,7 @@ It was also tested on physical devices like iPad.
 
 ### Bugs
 ___
+ No bugs found in this website while deployment.
 
 
 ## Deployment
