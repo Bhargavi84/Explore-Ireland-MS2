@@ -69,8 +69,8 @@ sections of the content or scroll down the page.
 
 ### Skeleton 
 ___
-* [Desktop wireframes](assets/wireframes/.png)
-* [Tablet and mobile wireframes](assets/wireframes/.png)
+* [Desktop wireframes](assets/wireframes/Explore-Ireland-Desktop.png)
+* [Tablet and mobile wireframes](assets/wireframes/Explore-Ireland-Mobile_Tablet.png)
 
 ### Surface
 ___
