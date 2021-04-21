@@ -32,7 +32,6 @@ ___
     3. I want to read more about the information that I'm interested in.   
     4. I want to know how interactive the website is.
 
-![User Stories 1](assets/images/.jpg)
 
 * **People making their  bookings**
     * I want to find out latest Covid-19 travel advice Ireland.
@@ -40,15 +39,13 @@ ___
     * I want to see random images of new locations I could visit.
     * I want to have access to all necessary travel information I need to plan my trip.
     * I can click the featured button to receive a newsletter for more updates.
-![User Stories 2](assets/images/.jpg)
+
 
 * **People who are travelling inside the Ireland**
     * I want to to use the map to find exiting places to visit and make quick decisions.
     * I want to use the website's Social Media for more inspiration.
     * I want to get in touch if I have any queries.
 
-
-![User Stories 3](assets/images/.jpg)     
 
 ### Strategy
 ___
@@ -77,7 +74,7 @@ ___
 
 ### Surface
 ___
-Simple light background, less design, easily accessible navigation bar, amazing images of "Explore these places" were selected to allow users to explore the destination from their comfort zone, whether they are looking for a guide to a specific location or just browsing for the next trip inspiration.
+Simple light background, less design, easily accessible navigation bar, amazing images of "Explore Ireland" were selected to allow users to explore the destination from their comfort zone, whether they are looking for a guide to a specific location or just browsing for the next trip inspiration.
 
 ## Technologies Used 
 ___
@@ -103,6 +100,21 @@ which is compatible with all modern browsers. The components used: navigation, b
 * EmailJS API - to create an email template and enable users to send emails directly without using the server.
 * SweetAlert2 - an interactive custom modal window, provides a status confirmation (success / fail) when users submit a form on the website.
 
+### Future Features
+___
+
+* To add **Hotel / B & B Recommendations** - web links to hotel and booking sites.
+* Travel Package - That will have information about the places that covers in the package.
+* vehicle Hire / Rent.
+* Advice for first-time travellers.
+* Packing tips for Ireland.
+* Tips for families with kids and pets.
+* Top 10 must see places.
+* To integrate **Customer Reviews / Feedback** section to the website, as this would enchance customers' confidence in using the website.
+* Current date and Time and weather forecast in Ireland.
+
+
+
 ## Testing
 ___
 ### Code Validity
@@ -113,6 +125,47 @@ ___
     * **cards.js** - Cyclomatic complexity number for this function is 3.
     * **maps.js** - The most complex function has a cyclomatic complexity value of 2 while the median is 1
     * **sendEmail.js** - The most complex function has a cyclomatic complexity value of 1 while the median is 1. 
+
+### Testing User Stories from UX section of this file 
+___
+
+* **People with no travel plans in mind  or not deciding where to go:**
+    * I want to get inspiration for my next travel experience.
+        * Image Carousel has showcases captivating high-resolution images to spark the initial travel interest.
+    * I want to be able to understand what kind of travel experience I am being offered and explore it from the comfort of my side.
+        * The Cards Section of the website is easily accessible and has got all the information needed to show users that their 
+        dream holiday is just a few clicks away.
+    * I want to see more about the sections I'm interested in.
+        * The Cards Section has "show more" buttons to expand the text, allowing users to read the full information on the topics.
+    * I want to use interactive elements of the website.
+        * The Map Section has markers for each highlighted location. Markers are clickable and allow users to view the image of the destination 
+        as well as the brief description in the separate section.
+
+* **People making their first or secondary bookings**
+    * I want to know the current situation with Covid-19 in Ireland.
+        * The Covid-19 Section is visible when users land on the website. "Latest travel advice" link, when clicked, takes users to the Ireland's page of the Irish Government's Foreign Travel Advice website. 
+    * I want to use the easily accessible simple navigation bar to select the section of the website that I need.
+        * The navigation bar is fixed to the top of the page and easily accessible from all screen size devices. On a small sized devices 
+        it collapses into a hamburger menu.
+    * I want to see beautiful images of new locations I could visit in the future.
+        * The carousel slide contains high-quality large images.
+    * I want to find out why Ireland is know as Emerald Isle, about St. Patricks's Day and Irish Food culture.
+        * This information can be easily found in the Cards Section of the website. Users can use interactive "Show more" / "Show less" button
+        to expand / collapse the section.    
+    * I want to have access to all necessary travel information I need to plan my trip.
+        * All sections of the website are clearly labelled and easily accessible.
+    * I can click the featured call to action button to receive a newsletter with travel insights and updates.
+        * The Contact Page is easily accessible via the navigation menu and users can register their interest to receive a newsletter.
+
+* **People who are travelling in the area**
+    * I want to to use the map to find exiting places to visit locally and make quick decisions what places to visit.
+        * The Map Section markers show popular locations users can visit and provide brief overview and an image of the location when clicked. 
+    * I want to use Social Media websites for more inspiration.    
+        * The Social Icons are easily accessible in the footer and allow users to access the website's social media pages.
+    * I want to get in touch if I have any questions or queries.
+        * The Contact Form allows users to get in touch with their queries. 
+
+
 ## Further Testing
 ___
 ### Functionality Testing
