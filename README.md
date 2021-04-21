@@ -54,6 +54,7 @@ ___
 * To promote and convey the beauty of the country.
 * To enable easy access to the information needed to plan their trip.
 * To showcase the best places to visit.
+* To know about the History and culture and rich Heritage of Ireland.
 * To ensure users are able to get in touch through the Contact Form.
 
 ### Scope
@@ -70,7 +71,7 @@ sections of the content or scroll down the page.
 ### Skeleton 
 ___
 * [Desktop wireframes](assets/wireframes/Explore-Ireland-Desktop.png)
-* [Tablet and mobile wireframes](assets/wireframes/Explore-Ireland-Mobile_Tablet.png)
+* [Mobile / tablet wireframes](assets/wireframes/Explore-Ireland-Mobile_Tablet.png)
 
 ### Surface
 ___
@@ -112,6 +113,7 @@ ___
 * Top 10 must see places.
 * To integrate **Customer Reviews / Feedback** section to the website, as this would enchance customers' confidence in using the website.
 * Current date and Time and weather forecast in Ireland.
+* Marriage photoshoot in castles.
 
 
 
@@ -149,7 +151,7 @@ ___
         it collapses into a hamburger menu.
     * I want to see beautiful images of new locations I could visit in the future.
         * The carousel slide contains high-quality large images.
-    * I want to find out why Ireland is know as Emerald Isle, about St. Patricks's Day and Irish Food culture.
+    * I want to find out why Ireland is know as Emerald Isle, about St. Patricks's Day and Irish Food culture, all about the History & culture and Heritage of Ireland.
         * This information can be easily found in the Cards Section of the website. Users can use interactive "Show more" / "Show less" button
         to expand / collapse the section.    
     * I want to have access to all necessary travel information I need to plan my trip.
@@ -222,6 +224,10 @@ find the information they were looking for and easily understand the purpose of 
 ### Performance Testing
 ___
 Performance testing was carried out using 
+
+* * Images were resized and compressed multiple times to improve the loading speed of the website.  
+
+
 
 ### Compatibility Testing
 ___
