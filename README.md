@@ -110,9 +110,9 @@ ___
 * HTML Markup Validation Service - [Pass](https://validator.w3.org/)
 * CSS Validation Service - [Pass](https://jigsaw.w3.org/css-validator/)
 * JS Validation by https://jshint.com/
-    ** cards.js - Cyclomatic complexity number for this function is 3.
-    ** maps.js - The most complex function has a cyclomatic complexity value of 2 while the median is 1
-    ** sendEmail.js - The most complex function has a cyclomatic complexity value of 1 while the median is 1. 
+    * **cards.js** - Cyclomatic complexity number for this function is 3.
+    * **maps.js** - The most complex function has a cyclomatic complexity value of 2 while the median is 1
+    * **sendEmail.js** - The most complex function has a cyclomatic complexity value of 1 while the median is 1. 
 ## Further Testing
 ___
 ### Functionality Testing
@@ -197,7 +197,7 @@ There is no difference between the deployed version and the development version.
 ### Design
 ___
 
-* Nazulka/MS2-Visit-Kyrgyzstan
+* Visit-Kyrgyzstan
 * Explore-national-parks-of-japan
 * Ideas from 
 ___
@@ -222,7 +222,7 @@ ___
 ___
 
 * The images used in this website were obtained from https://unsplash.com/
-* The images resizing by by https://picresize.com/
+* The images resizing by  https://picresize.com/
 
 ### Acknowledgements
 ___
