@@ -248,8 +248,8 @@ All code for this website was written in Gitpod and then pushed to GitHub to sto
 It was then published using GitHub Pages directly from the _master branch_ by following the steps below: 
 * Select **Explore-Ireland-MS2** in the repositories
 * Click on _Settings_ in the menu bar
-* Scroll down to GitHub Pages and select _"main branch"_ in drop-down menu in the _Source_ section
-* The page will reload and you'll be provided with a link to your published website.
+* Scroll down to GitHub Pages select "Pages settings now has its own dedicated  tab! Check it out here!"
+* The page will reload and you'll be provided with a link to the published website.
 * To run the code locally by cloning this repository, click on _Download_ Code. To clone the repository using HTTPS, under "Clone with HTTPS" click on _Save_.
 * To create a personal copy of this repository, click on _Fork_ button on the top right corner of the page.
 
