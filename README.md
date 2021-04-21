@@ -1,5 +1,8 @@
-# Explore-Ireland-MS2
 Milestone_Project-2_Code-Institute
+
+# Explore-Ireland-MS2
+![plot](assets/images/Am_I_Responsive.JPG)
+
 ## About
 ___
 
@@ -225,11 +228,9 @@ find the information they were looking for and easily understand the purpose of 
 
 ### Performance Testing
 ___
-Performance testing was carried out using 
-
-* * Images were resized and compressed multiple times to improve the loading speed of the website.  
-
-
+Performance testing was carried out using Chrome Developer Tools. It has shown excellent performance and accessibility results for desktop devices.
+* Webiste has been loaded in the multiple divces at same time.
+* Images were resized and compressed multiple times to improve the loading speed of the website.  
 
 ### Compatibility Testing
 ___
