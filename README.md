@@ -54,7 +54,7 @@ ___
 **Project goals:**
 * To provide a finest experience to explore Ireland to all potential travellers.
 * To promote and convey the beauty of the country.
-* To enable easy access to the information needed to plan their trip.
+* To know the  information about main sport of Ireland, The Gaelic, The football game.
 * To showcase the best places to visit.
 * To know about the History and culture and rich Heritage of Ireland.
 * To ensure users are able to get in touch through the Contact Form.
@@ -110,13 +110,13 @@ ___
 
 * To add **Hotel / B & B Recommendations** - web links to hotel and booking sites.
 * Travel Package - That will have information about the places that covers in the package.
-* vehicle Hire / Rent.
+* Vehicle Hire / Rent.
 * Advice for first-time travellers.
 * Packing tips for Ireland.
 * Tips for families with kids and pets.
 * Top 10 must see places.
 * To integrate **Customer Reviews / Feedback** section to the website, as this would enchance customers' confidence in using the website.
-* Current date and Time and weather forecast in Ireland.
+* Current date, Time and weather forecast in Ireland.
 * Marriage photoshoot in castles.
 
 
@@ -138,15 +138,15 @@ ___
 * **People with no travel plans in mind  or not deciding where to go:**
     * I want to get inspiration for my next travel experience.
     * Image Carousel has showcases captivating high-resolution images to spark the initial travel interest.
-    * I want to be able to understand what kind of travel experience I am being offered and explore it from the comfort of my side.
-    * The Cards Section of the website is easily accessible and has got all the information needed to show users that their dream holiday is just a few clicks away.
+    * I want to be able to understand what kind of travel experience I am being offered and explore it from the comfort zone.
+    * The Cards Section of the website is easily accessible and has got all the information needed.
     * I want to see more about the sections I'm interested in.
     * The Cards Section has "show more" buttons to expand the text, allowing users to read the full information on the topics.
     * I want to use interactive elements of the website.
     * The Map Section has markers for each highlighted location. Markers are clickable and allow users to view the image of the destination 
         as well as the brief description in the separate section.
 
-* **People making their first or secondary bookings**
+* **People making their bookings**
     * I want to know the current situation with Covid-19 in Ireland.
     * The Covid-19 Section is visible when users land on the website. "Latest travel advice" link, when clicked, takes users to the Ireland's page of the Irish Government's Foreign Travel Advice website. 
     * I want to use the easily accessible simple navigation bar to select the section of the website that I need.
@@ -237,7 +237,7 @@ It was also tested on physical devices like iPad.
 ### Bugs and fixes.
 ___
  There was "Favicon Ico" error while deployment.This has been fixed by including the below tags inside the head tags.
- <link rel="icon" href="data:,">
+ * link rel="icon" href="data:,"
 
 
 ## Deployment
@@ -251,7 +251,6 @@ It was then published using GitHub Pages directly from the _master branch_ by fo
 * To run the code locally by cloning this repository, click on _Download_ Code. To clone the repository using HTTPS, under "Clone with HTTPS" click on _Save_.
 * To create a personal copy of this repository, click on _Fork_ button on the top right corner of the page.
 
-There is no difference between the deployed version and the development version.
 
 ## Credits
 
@@ -289,7 +288,7 @@ ___
 ### Acknowledgements
 ___
 * My mentor **Excellence Ilesanmi** for his continuous support and feedback throughout this project.
-* CI Student careb,Tutors and Slack Community for help and support.
+* CI Student care Team,Tutors and Slack Community for help and support.
 * This project is purely educational purpose only. 
 
 
