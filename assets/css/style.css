@@ -281,7 +281,10 @@ ul.social li a i {
 @media(min-width: 280px) {
 	body p {
 		line-height: 1.4;
-	}
+    }
+    #history p{
+        padding-top: 0.5rem;
+    }
 	.gamebar-text p {
 		font-size: medium;
 	}
@@ -313,5 +316,25 @@ ul.social li a i {
     .py-4 {
     padding-bottom: 0rem!important;
 }
+
+}
+@media(min-width: 1024px) {
+    .card-body {
+
+    padding: 0.5rem;
+    }
+
+}
+@media(min-width: 823px) {
+    .card-body {
+
+    padding: 1rem;
+    }
+}
+@media(min-width: 768px) {
+    .card-body {
+
+    padding: 0.5rem;
+    }
 
 }
