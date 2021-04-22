@@ -40,7 +40,6 @@ ___
     * I want to find out latest Covid-19 travel advice Ireland.
     * I can easily use and accessible simple navigation bar to select the section of the website.
     * I want to see random images of new locations I could visit.
-    * I want to have access to all necessary travel information I need to plan my trip.
     * I can click the featured button to receive a newsletter for more updates.
 
 
@@ -138,39 +137,37 @@ ___
 
 * **People with no travel plans in mind  or not deciding where to go:**
     * I want to get inspiration for my next travel experience.
-        * Image Carousel has showcases captivating high-resolution images to spark the initial travel interest.
+    * Image Carousel has showcases captivating high-resolution images to spark the initial travel interest.
     * I want to be able to understand what kind of travel experience I am being offered and explore it from the comfort of my side.
-        * The Cards Section of the website is easily accessible and has got all the information needed to show users that their 
-        dream holiday is just a few clicks away.
+    * The Cards Section of the website is easily accessible and has got all the information needed to show users that their dream holiday is just a few clicks away.
     * I want to see more about the sections I'm interested in.
-        * The Cards Section has "show more" buttons to expand the text, allowing users to read the full information on the topics.
+    * The Cards Section has "show more" buttons to expand the text, allowing users to read the full information on the topics.
     * I want to use interactive elements of the website.
-        * The Map Section has markers for each highlighted location. Markers are clickable and allow users to view the image of the destination 
+    * The Map Section has markers for each highlighted location. Markers are clickable and allow users to view the image of the destination 
         as well as the brief description in the separate section.
 
 * **People making their first or secondary bookings**
     * I want to know the current situation with Covid-19 in Ireland.
-        * The Covid-19 Section is visible when users land on the website. "Latest travel advice" link, when clicked, takes users to the Ireland's page of the Irish Government's Foreign Travel Advice website. 
+    * The Covid-19 Section is visible when users land on the website. "Latest travel advice" link, when clicked, takes users to the Ireland's page of the Irish Government's Foreign Travel Advice website. 
     * I want to use the easily accessible simple navigation bar to select the section of the website that I need.
-        * The navigation bar is fixed to the top of the page and easily accessible from all screen size devices. On a small sized devices 
-        it collapses into a hamburger menu.
+    * The navigation bar is fixed to the top of the page and easily accessible from all screen size devices. On a small sized devices it collapses into a hamburger menu.
     * I want to see beautiful images of new locations I could visit in the future.
-        * The carousel slide contains high-quality large images.
+    * The carousel slide contains high-quality large images.
     * I want to find out why Ireland is know as Emerald Isle, about St. Patricks's Day and Irish Food culture, all about the History & culture and Heritage of Ireland.
-        * This information can be easily found in the Cards Section of the website. Users can use interactive "Show more" / "Show less" button
+    * This information can be easily found in the Cards Section of the website. Users can use interactive "Show more" / "Show less" button
         to expand / collapse the section.    
     * I want to have access to all necessary travel information I need to plan my trip.
-        * All sections of the website are clearly labelled and easily accessible.
+    * All sections of the website are clearly labelled and easily accessible.
     * I can click the featured call to action button to receive a newsletter with travel insights and updates.
-        * The Contact Page is easily accessible via the navigation menu and users can register their interest to receive a newsletter.
+    * The Contact Page is easily accessible via the navigation menu and users can register their interest to receive a newsletter.
 
 * **People who are travelling in the area**
     * I want to to use the map to find exiting places to visit locally and make quick decisions what places to visit.
-        * The Map Section markers show popular locations users can visit and provide brief overview and an image of the location when clicked. 
+    * The Map Section markers show popular locations users can visit and provide brief overview and an image of the location when clicked. 
     * I want to use Social Media websites for more inspiration.    
-        * The Social Icons are easily accessible in the footer and allow users to access the website's social media pages.
+    * The Social Icons are easily accessible in the footer and allow users to access the website's social media pages.
     * I want to get in touch if I have any questions or queries.
-        * The Contact Form allows users to get in touch with their queries. 
+    * The Contact Form allows users to get in touch with their queries. 
 
 
 ## Further Testing
@@ -229,7 +226,7 @@ find the information they were looking for and easily understand the purpose of 
 ### Performance Testing
 ___
 Performance testing was carried out using Chrome Developer Tools. It has shown excellent performance and accessibility results for desktop devices.
-* Website has been loaded in the multiple devices at same time.
+* Website has been loaded  in the multiple devices at same time.
 * Images were resized and compressed multiple times to improve the loading speed of the website.  
 
 ### Compatibility Testing
@@ -237,9 +234,10 @@ ___
 Compatibility and responsiveness of the website was extensively tested across multiple browsers (Chrome and Fire Fox) and on muliple screen size devices including iPhone (5, 6, 7, PLus, X), iPad, iPad Pro, Samsung Galaxy using Chrome Dev Tools and Responsive Web Design Tester.
 It was also tested on physical devices like iPad. 
 
-### Bugs
+### Bugs and fixes.
 ___
- No bugs found in this website while deployment.
+ There was "Favicon Ico" error while deployment.This has been fixed by including the below tags inside the head tags.
+ <link rel="icon" href="data:,">
 
 
 ## Deployment
