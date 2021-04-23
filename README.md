@@ -10,7 +10,7 @@ ___
 
 ___
 
-[Webpage link](https://bhargavi84.github.io/Explore-Ireland-MS2/)
+[Click here to visit website](https://bhargavi84.github.io/Explore-Ireland-MS2/)
 
 ### Table of contents
 
@@ -39,7 +39,7 @@ ___
     * As a user I want to know how interactive the website is.
 
 
-* **People making their  bookings**
+* **People while making online bookings**
     * As a user I want to find out latest Covid-19 travel advice Ireland.
     * As a user I can easily use and accessible simple navigation bar to select the section of the website.
     * As a user I want to see random images of new locations I could visit.
@@ -64,14 +64,13 @@ ___
 
 ### Scope
 ___
-To create a website that will help the users get motivated to plan their travel next to Ireland. 
+To create a website that will help the users get motivated to plan their travel destination to Ireland. 
 The website has been divided into different section so that user can easily look into that and the infomation are easy and understanble way so that  they can plan their next trip.
 
 ### Structure
 ___
-The  webpage is a single page website that consists of four sections: Home, History and culture, Explore and Contact.
-To navigate to different destinations on the website, users need to click navigation links that allow them to jump to different 
-sections of the content or scroll down the page.
+The  webpage is a single page website that contains four sections: Home, History and culture, Explore and Contact.
+To navigate to different section on the website, users need to click navigation links that allow them to jump to desired sections of the content or scroll down the page.
 
 ### Skeleton 
 ___
@@ -80,7 +79,7 @@ ___
 
 ### Surface
 ___
-The webpage is Simple light background, less design, easily accessible navigation bar, amazing images of "Explore Ireland". This will allow users to explore the destination from their comfort zone, if they are looking for a guide to a specific location or just browsing for the next trip inspiration.
+The webpage is Simple and white background, minimum design, easily accessible navigation bar, amazing images of "Explore Ireland". This will allow users to explore the destination from their comfort zone, if they are looking for a guide to a specific location or just browsing for the next trip inspiration.
 
 ## Technologies Used 
 ___
@@ -90,13 +89,13 @@ ___
 * CSS3
 * JavaScript
 * jshint
-* HTML Validator - to validate the HTML code without any errors and format with neat alignment.
+* HTML Validator and Formatter - to validate the HTML code without any errors and format with neat alignment.
  https://validator.w3.org/, https://www.freeformatter.com/html-formatter.html 
-* CSS Validator - to validate the CSS code without any errors and beautify with neat alignment. 
+* CSS Validator and Beautifier - to validate the CSS code without any errors and beautify with neat alignment. 
 https://jigsaw.w3.org/css-validator/, https://www.freeformatter.com/css-beautifier.html 
 
 
-### Frameworks, Libraries and Programs Used
+### Libraries and Frameworks Used
 ___
 
 * **Bootstrap** - used to create a layout and to build a responsive, mobile-first design, 
@@ -125,13 +124,17 @@ ___
 * Top 10 must see places.
 * To integrate **Customer Reviews / Feedback** section to the website, as this would enchance customers' confidence in using the website.
 * Current date, Time and weather forecast in Ireland.
-* Marriage photoshoot in castles.
+* **Speacial offers** like Marriage photoshoot in castles.
+* To limit the email characters.
+* Better color and background.
+* Some more animations to attract travellers those who have kids.
+
 
 
 
 ## Testing
 ___
-### Code Validity
+### Code Validation
 ___
 * HTML Markup Validation Service - [Pass](https://validator.w3.org/)
 * CSS Validation Service - [Pass](https://jigsaw.w3.org/css-validator/)
