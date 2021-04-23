@@ -12,7 +12,7 @@ ___
 
 [Click here to visit website](https://bhargavi84.github.io/Explore-Ireland-MS2/)
 
-### Contents
+### **Contents**
 
   * [About](#about)
   * [UX](#ux)   
@@ -22,7 +22,6 @@ ___
   * [Skeleton](#skeleton)
   * [Surface](#surface)
   * [Technologies](#technologies-used)  
-  * [Features](#features)    
   * [Testing](#testing)
   * [Deployment](#deployment)
   * [Credits](#credits)
@@ -34,7 +33,7 @@ ___
 ___
 *  **Olivia is first time traveller(user) to Ireland with no travel ideas or deciding where to travel:**
     * As a user she wants to get inspiration for her next travel destination.
-    * As a user she wants to be able to understand what kind of place she is being offered and explore it from the comfort of her home.    
+    * As a user she wants to understand what kind of place she is being offered and explore it from the comfort of her home.    
     * As a user she wants to read more about the information that she is interested in.   
     * As a user she wants to know how interactive the website is.
 
@@ -47,8 +46,8 @@ ___
 
 
 * **Darragh who is travelling inside the Ireland**
-    * As a user he wants to to use the map to find exiting places to visit and make quick decisions.
-    * As a user he wants to use the website's Social Media for more inspiration.
+    * As a user he wants to use the map to find exciting places to visit and make quick decisions.
+    * As a user he wants to use the website's social media for more inspiration.
     * As a user he wants to get in touch, if he has any queries.
 
 
@@ -56,16 +55,16 @@ ___
 ___
 **Objectives:**
 * To provide a finest experience to explore Ireland to all new travellers.
-* To promote and convey the History,Culture and Beauty of the country.
-* To know the  information about main sport of Ireland, The Gaelic, The football game.
+* To promote and convey the history, culture and beauty of the country.
+* To know the  information about main sport of Ireland, The Gaelic football game.
 * To draw attention to the best places to visit.
-* To know about the History and food culture and rich Heritage of Ireland.
+* To know about the history and food culture and rich heritage of Ireland.
 * To ensure users are able to send their message or queries through the Contact Form.
 
 ### **Scope**
 ___
 To create a website that will help the users get motivated to plan their travel destination to Ireland. 
-The website has been divided into different section so that user can easily look into that and the infomation are easy and understanble way so that  they can plan their next trip.
+The website has been divided into different section so that user can easily look into that and the infomation are easy and understandable way so that  they can plan their next trip.
 
 ### **Structure**
 ___
@@ -79,11 +78,11 @@ ___
 
 ### **Surface**
 ___
-The webpage is Simple and white background, minimum design, easily accessible navigation bar, amazing images of "Explore Ireland". This will allow users to explore the destination from their comfort zone, if they are looking for a guide to a specific location or just browsing for getting inspiration.
+The webpage is simple and white background, minimum design, easily accessible navigation bar, amazing images of "Explore Ireland". This will allow users to explore the destination from their comfort zone, if they are looking for a guide to a specific location or just browsing for getting inspiration.
 
 ## Technologies Used 
 ___
-### Languages Used
+### **Languages Used**
 ___
 * HTML5
 * CSS3
@@ -95,7 +94,7 @@ ___
 https://jigsaw.w3.org/css-validator/, https://www.freeformatter.com/css-beautifier.html 
 
 
-### Libraries and Frameworks Used
+### **Libraries and Frameworks Used**
 ___
 
 * **Balsamiq** - to create a blueprint to allow  to plan the layout and content of the website.
@@ -104,16 +103,16 @@ ___
 * **GitHub** - used as a hosting service for version control and future collaborations.
 * **Bootstrap** - used to create a layout and to build a responsive, mobile-first design, 
 which is compatible with all modern browsers. The components used: navigation, buttons, cards , go to top button and image-carousel. 
-* **Google Fonts** - Roboto font has been used throughout the website.
+* **Google Fonts** - Roboto font has been used as text-font all over the website.
 * **Font awesome** - to add Font Awesome icons to required Headings and Footer sections.
-* **Google maps API** - used to implant Google Maps into the website, to provide users with the locations information.
+* **Google maps API** - used to insert google Maps into the website, to provide users with the location information.
 * **EmailJS API** - to create an email template and enable users to send emails directly without using the server.
 * **SweetAlert** - JavaScript that shows wonderful modal popup windows, provides a status confirmation (success / fail) when users submit a form on the website.
 * **jQuery**  plugins - required to ensure proper exhibit of the Bootstrap components.  
 
 
 
-### Future Implementations
+### **Future Implementations**
 ___
 
 * To add **Hotel / B & B Recommendations** - web links to hotel and booking sites.
@@ -122,17 +121,17 @@ ___
 * Advice for first-time travellers.
 * Tips for families with kids and pets.
 * Top 10 must see places.
-* Feedback Column, this might help in updating and upgarding the website.
+* Feedback column, this might help in updating and upgrading the website.
 * Current date, Time and weather forecast in Ireland.
-* **Speacial offers** like Marriage photoshoot in castles.
-* To limit the email characters.
+* **Special offers** like marriage photoshoot in castles.
+* To limit the no of characters email message .
 * Better color and background.
-* Some more animations to attract travellers those who have kids.
+* Few more animations to attract travellers those who have kids.
 
 
 
 
-## Testing
+## **Testing**
 ___
 ### Code Validation
 ___
@@ -146,37 +145,37 @@ ___
 ### Testing User Stories from UX section. 
 ___
 
-* **People who do not have any travel plans or have no clarity where to go:**
+### People who do not have any travel plans or have no clarity where to go:
     * I want to get interest for my next travel.
-    * Image Carousel has attractive high-resolution images to encourages the travel interest.
+    * Image carousel has attractive high-resolution images to encourages the travel interest.
     * I want to be able to understand what kind of travel experience I am being offered and explore it from the comfort zone.
-    * The Cards Section of the website is easily accessible and has got all the information needed.
+    * The cards section of the website is easily accessible and has got all the information needed.
     * I want to see more about the sections I'm interested in.
-    * The Cards Section has "show more" buttons to expand the text, allowing users to read the full information on the topics.
+    * The cards section has "show more" buttons to expand the text, allowing users to read the full information on the topics.
     * I want to use interactive elements of the website.
-    * The Map Section has markers for each highlighted location. Markers are clickable and allow users to view the image of the destination to the right side of the page, as well as the brief description.
+    * The Map section has markers for each highlighted location. Markers are clickable and allow users to view the image of the destination to the right side of the page, as well as the brief description.
 
-* **People making their online bookings**
+### People making their online bookings
     * I want to know the current situation with Covid-19 in Ireland.
-    * The Covid-19 Section is visible when users land on the website. "Latest travel advice" link, when clicked, takes users to the Ireland's page of the Irish Government's Foreign Travel Advice website. 
+    * The Covid-19 section is visible when users enter the website. "Latest travel advice" link, when clicked, takes users to the Ireland's page of the Irish Government's foreign travel advice website. 
     * I want to use the easily accessible simple navigation bar to select the section of the website that I need.
     * The navigation bar is fixed to the top of the page and easily attainable from all screen size devices. On a small sized devices it collapses into a hamburger menu.
     * I want to see beautiful images of new locations I could visit.
     * The carousel slide contains high-quality large images.
-    * I want to find out why Ireland is know as Emerald Isle, history of St. Patricks's Day and Irish Food culture, all about the History & culture and Heritage of Ireland.
-    * This information can be easily found in the Cards Section of the website. Users can use interactive "Show more" / "Show less" button to expand / collapse the section.    
+    * I want to find out why Ireland is know as "Emerald Isle", history of St. Patricks's Day and irish food culture, all about the history & culture and heritage of Ireland.
+    * This information can be easily found in the cards Section of the website. Users can use interactive "Show more" / "Show less" button to expand / collapse the section.    
     * I want to have access to all necessary travel information I need to plan my trip.
     * The sections of the website are properly categorized, labelled and easily accessible.
     * I can click the "checkbox" button to receive a newsletter with travel insights and updates.
     * The Contact Page is easily accessible through the navigation menu and users can register their interest to receive a newsletter.
 
-* **People who are travelling inside the Ireland**
+### People who are travelling inside the Ireland
     * I want to to use the google map to find attractive places to visit locally and deciding which places to visit.
     * The Map Section markers displays most beautiful locations where in users can get attracted to the place and it also displays an image of the location when clicked. 
-    * I want to use Social Media websites for more information.    
-    * The Social Icons are easily accessible in the footer bar and allow users to access the website's social media pages in the seperate tab.
+    * I want to use social media websites for more information.    
+    * The social icons are easily accessible in the footer bar and allow users to access the website's social media pages in the seperate tab.
     * I want to communicate if I have any questions or queries.
-    * The Contact Form allows users to contact with their queries. 
+    * The contact Form allows users to contact with their queries. 
 
 
 ## Further Testing
@@ -187,13 +186,12 @@ ___
 * The navbar is fixed and placed on top of the page and always visible on all screen sizes.
 * All the links on the navbar have been clicked to test and are working as expected, allowing users to jump to the linked page.
 * Navbar Brand logo is linked to the Home page and is working as expected.
-* The navbar collapses into a hamburger menu on screen sizes smaller than 768px. A navigation menu appears 
-    when you click on the hamburger icon. This has been tested and working as expected.
+* The navbar collapses into a hamburger menu on screen sizes smaller than 768px. A navigation menu appears when you click on the hamburger icon. This has been tested and working as expected.
 
 ### **Covid-19 Alert Tab**
 * "Latest travel advice" link, when clicked, takes users to the Ireland's page of the Irish Government's Foreign Travel Advice website. 
 
-### **Image Carousel**
+### **Image carousel**
 * Bootstrap Image carousel takes up the full page as designed and cycles through the images. The time delay attribute is functioning.
 as intended, allowing 5 seconds delay between automatically fading the images.
 * Carousel-fade animation is working properly and allows a fade transition instead of a slide.
@@ -205,7 +203,7 @@ as intended, allowing 5 seconds delay between automatically fading the images.
 * Cards section is almost responsive in all screen sizes and works as designed, each taking the 100% width of the screen.
 
 ### **Map Section**
-* Google Map markers are been for the testing purposes and are functioning properly. By clicking on the markers, the respective info bar content appears in the "gamebar" section inside the card, located to the right of the map on medium and larger screens and below of the map on small screen sizes.
+* Google map markers are been for the testing purposes and are functioning properly. By clicking on the markers, the respective info bar content appears in the "gamebar" section inside the card, located to the right of the map on medium and larger screens and below of the map on small screen sizes.
 * All the location markers inside the map has been correctly located with correct latitude and longitude values of the places.
 
 ### **Contact Form section**
@@ -224,18 +222,18 @@ as intended, allowing 5 seconds delay between automatically fading the images.
 
 ### **Footer**
 * Footer is responsive and always stays on the bottom of the page. and is working as intended.
-* Change of colour and transition effects on hovering over Social Icons have been tested and working as intended.
-* Click on each Social icon all the links are functioning as intended and opens in new tab.
+* Change of colour and transition effects on hovering over social icons have been tested and working as intended.
+* Click on each social icon all the links are functioning as intended and opens in new tab.
     
 ## Testing cont...
 ___
- This website has been tested by sharing it with family members and friends. The Feedback of the website was Simple and yet very informative and user-interactive easily conveys the purpose of the website. This Website has been loaded  in the multiple devices at the same time and without any errors / issues the website has been loaded. The padding of the card section and card images was changed multiple times to improve the loading speed of the website.
+ This website has been tested by sharing it with family members and friends. The Feedback of the website was simple and yet very informative and user-interactive easily conveys the purpose of the website. This website has been loaded  in the multiple devices at the same time and without any errors / issues the website has been loaded. The padding of the card section and card images was changed multiple times to improve the loading speed of the website.
  * The below snapshot is an observation / feedback from one of the friends. This will be featured and implemented in future milestone projects.
  ![plot](assets/images/feedback.jpg)
 
 ### Performance Monitoring
 ___
-Performance monitoring was performed using Chrome Developer Tools. The performance and accessibility results for desktop devices.
+Performance monitoring was performed using Chrome Developer Tools. The performance and accessibility results for desktop devices is below.
 
 ![plot](assets/images/testing.jpg)
 
@@ -249,17 +247,17 @@ Responsiveness and Compatibility of the website was significantly tested across 
 ![plot](assets/images/responsive.jpg)
 ![plot](assets/images/responsive-1.jpg)
 
-### Bugs and fixes.
+### **Bugs and Fixes**
 ___
  There was "Favicon Ico" error while deployment.This has been fixed by including the below tags inside the head tags.
  * link rel="icon" href="data:,"
 
-## Deployment
+## **Deployment**
 ___
 All code for this website was written in Gitpod and then pushed to GitHub to store in my local repository.
-It was then published using GitHub Pages directly from the _master branch_ by following the steps below: 
+It was then published using GitHub pages directly from the _master branch_ by following the steps below: 
 * Select **Explore-Ireland-MS2** in the repositories
-* Click on _Settings_ in the menu bar
+* Click on _settings_ in the menu bar
 * Scroll down to GitHub Pages select "Pages settings now has its own dedicated  tab! Check it out here!"
 * The page will reload and you'll be provided with a link to the published website.
 ![plot](assets/images/deploy.jpg)
@@ -268,14 +266,14 @@ It was then published using GitHub Pages directly from the _master branch_ by fo
 * To create a personal copy of this repository, click on _Fork_ button on the top right corner of the page.
 
 
-## Credits
+## **Credits**
 
 ### Design
 ___
 
 * Motivation by Visit-Kyrgyzstan.
 * Motivation by Explore-national-parks-of-japan.
-* Readme motivation by Visit-Kyrgyzstan.
+* Readme motivation by https://github.com/Nazulka/MS2-Visit-Kyrgyzstan
 * Ideas from my mentor Excellence Ilesanmi.
  
 ___
@@ -285,8 +283,8 @@ ___
 * Bootstrap documentation for Buttons, Card, Carousel and Navbar.
 * StackOverflow forum for Multiple "Show More" / "Show Less" buttons in cards section. 
 * SweetAlert2 customized alert messages library. 
-* Mapjs and EmailJs from CI Walkthrough projects and https://console.cloud.google.com/ for google API and EmailJS for connecting Submit button to email.
-* w3 schools - https://www.w3schools.com/
+* Mapjs and EmailJs from Code Institute's Rosie project and https://console.cloud.google.com/ for google API and EmailJS for connecting Submit button to email.
+* W3 schools - https://www.w3schools.com/
 * https://codepen.io/
 
 
@@ -305,12 +303,12 @@ ___
 * The gamebar image and map marker images by Google Images (Not licensed).
 * The images resizing by  https://picresize.com/
 
-### Acknowledgements
+### **Acknowledgements**
 ___
-* My mentor **Excellence Ilesanmi** for his continuous support and feedback throughout this project.
+* My mentor **Excellence Ilesanmi** for his continuous guidance and support throughout the project.
 * Code Institute's Student care Team,Tutors and Slack Community for help and support.
 
-### Disclaimer
+### **Disclaimer**
 ___
 * This project is purely educational purpose only. 
 
