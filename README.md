@@ -211,8 +211,8 @@ as intended, allowing 5 seconds delay between automatically fading the images.
 * When a text input entered into an email field it returns an error "@ sign should be included in the email address". 
  **Note** : The Email field doesn't stop users from entering incorrect or meaningless email address(though it has @ symbol).
 * "Submit" button changes color on hover as expected.
-* JavaScript `reset()` function is working correctly as the form resets after users fills in all input fields with valid data and click on "Submit" button.
-* `return false;` has been added to the event handler avoiding scrolling up to the top of the page every time when form has been submitted.
+* JavaScript function is working correctly for reset, as the form resets after users fills in all input fields with valid data and click on "Submit" button.
+* The return statement has been added to the event handler avoiding scrolling up to the top of the page every time when form has been submitted.
 * When the form has been submitted, users will be able to see a  customized SweetAlert2 message to confirm their action has been successful / failed. This has been tested and is working as expected.
 * The Contact Form has been correctly linked to EmailJS and sends an email every time users submit the form.
      
