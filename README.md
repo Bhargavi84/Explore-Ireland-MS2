@@ -12,7 +12,7 @@ ___
 
 [Click here to visit website](https://bhargavi84.github.io/Explore-Ireland-MS2/)
 
-### Table of contents
+### Contents
 
   * [About](#about)
   * [UX](#ux)   
@@ -98,31 +98,31 @@ https://jigsaw.w3.org/css-validator/, https://www.freeformatter.com/css-beautifi
 ### Libraries and Frameworks Used
 ___
 
-* **Bootstrap** - used to create a layout and to build a responsive, mobile-first design, 
-which is compatible with all modern browsers. The components used: navigation, buttons, cards , go to top button and image-carousel. 
-* **jQuery**  plugins - required to ensure proper exhibit of the Bootstrap components.  
+* **Balsamiq** - to create a blueprint to allow  to plan the layout and content of the website.
 * **Git** - used for version control and to keep track of the changes made to the repository.
 * **Gitpod** - open source development platform, allowed to add, commit and push files to GitHub.
 * **GitHub** - used as a hosting service for version control and future collaborations.
-* **Balsamiq** - to create a blueprint to allow  to plan the layout and content of the website.
-* **Font awesome** - to add Font Awesome icons to required Headings and Footer sections.
+* **Bootstrap** - used to create a layout and to build a responsive, mobile-first design, 
+which is compatible with all modern browsers. The components used: navigation, buttons, cards , go to top button and image-carousel. 
 * **Google Fonts** - Roboto font has been used throughout the website.
+* **Font awesome** - to add Font Awesome icons to required Headings and Footer sections.
 * **Google maps API** - used to implant Google Maps into the website, to provide users with the locations information.
 * **EmailJS API** - to create an email template and enable users to send emails directly without using the server.
 * **SweetAlert** - JavaScript that shows wonderful modal popup windows, provides a status confirmation (success / fail) when users submit a form on the website.
+* **jQuery**  plugins - required to ensure proper exhibit of the Bootstrap components.  
 
 
-### Future Features
+
+### Future Implementations
 ___
 
 * To add **Hotel / B & B Recommendations** - web links to hotel and booking sites.
 * Travel Package - That will have information about the places that covers in the package.
 * Vehicle Hire / Rent.
 * Advice for first-time travellers.
-* Packing tips for Ireland.
 * Tips for families with kids and pets.
 * Top 10 must see places.
-* To integrate **Customer Reviews / Feedback** section to the website, as this would enchance customers' confidence in using the website.
+* Feedback Column, this might help in updating and upgarding the website.
 * Current date, Time and weather forecast in Ireland.
 * **Speacial offers** like Marriage photoshoot in castles.
 * To limit the email characters.
@@ -171,12 +171,12 @@ ___
     * The Contact Page is easily accessible through the navigation menu and users can register their interest to receive a newsletter.
 
 * **People who are travelling inside the Ireland**
-    * I want to to use the map to find exiting places to visit locally and make quick decisions what places to visit.
-    * The Map Section markers show popular locations users can visit and provide brief overview and an image of the location when clicked. 
-    * I want to use Social Media websites for more inspiration.    
-    * The Social Icons are easily accessible in the footer and allow users to access the website's social media pages.
-    * I want to get in touch if I have any questions or queries.
-    * The Contact Form allows users to get in touch with their queries. 
+    * I want to to use the google map to find attractive places to visit locally and deciding which places to visit.
+    * The Map Section markers displays most beautiful locations where in users can get attracted to the place and it also displays an image of the location when clicked. 
+    * I want to use Social Media websites for more information.    
+    * The Social Icons are easily accessible in the footer bar and allow users to access the website's social media pages in the seperate tab.
+    * I want to communicate if I have any questions or queries.
+    * The Contact Form allows users to contact with their queries. 
 
 
 ## Further Testing
@@ -194,7 +194,7 @@ ___
 * "Latest travel advice" link, when clicked, takes users to the Ireland's page of the Irish Government's Foreign Travel Advice website. 
 
 ### **Image Carousel**
-* Bootstrap Image carousel takes up the full page as designed and cycles through the images. The time delay attribute is functioning 
+* Bootstrap Image carousel takes up the full page as designed and cycles through the images. The time delay attribute is functioning.
 as intended, allowing 5 seconds delay between automatically fading the images.
 * Carousel-fade animation is working properly and allows a fade transition instead of a slide.
 * Next and Previous controls have been clicked to test and are working as expected, taking users to the previous / next carousel image.
@@ -208,7 +208,7 @@ as intended, allowing 5 seconds delay between automatically fading the images.
 * Google Map markers are been for the testing purposes and are functioning properly. By clicking on the markers, the respective info bar content appears in the "gamebar" section inside the card, located to the right of the map on medium and larger screens and below of the map on small screen sizes.
 * All the location markers inside the map has been correctly located with correct latitude and longitude values of the places.
 
-### **Contact Form**
+### **Contact Form section**
 * The Contact form has been tested by submitting the form with one or more empty required fields. This returns an error message requesting to fill in all the required fields.
 * When a text input entered into an email field it returns an error "@ sign should be included in the email address". 
  **Note** : The Email field doesn't stop users from entering incorrect or meaningless email address(though it has @ symbol).
@@ -227,9 +227,9 @@ as intended, allowing 5 seconds delay between automatically fading the images.
 * Change of colour and transition effects on hovering over Social Icons have been tested and working as intended.
 * Click on each Social icon all the links are functioning as intended and opens in new tab.
     
-## Testing
+## Testing cont...
 ___
- This website has been tested by sharing it with family members and friends. The Feedback of the website was Simple and yet very informative and user-interactive easily conveys the purpose of the website. This Website has been loaded  in the multiple devices at the same time and without any errors / issues the website has been loaded. The card and carousel images were slightly resized and compressed to improve the loading speed of the website.
+ This website has been tested by sharing it with family members and friends. The Feedback of the website was Simple and yet very informative and user-interactive easily conveys the purpose of the website. This Website has been loaded  in the multiple devices at the same time and without any errors / issues the website has been loaded. The padding of the card section and card images was changed multiple times to improve the loading speed of the website.
  * The below snapshot is an observation / feedback from one of the friends. This will be featured and implemented in future milestone projects.
  ![plot](assets/images/feedback.jpg)
 
@@ -273,9 +273,11 @@ It was then published using GitHub Pages directly from the _master branch_ by fo
 ### Design
 ___
 
-* Motivation by Visit-Kyrgyzstan
-* Motivation by Explore-national-parks-of-japan
-* Ideas from my mentor Excellence Ilesanmi
+* Motivation by Visit-Kyrgyzstan.
+* Motivation by Explore-national-parks-of-japan.
+* Readme motivation by Visit-Kyrgyzstan.
+* Ideas from my mentor Excellence Ilesanmi.
+ 
 ___
 
 ### Code 
