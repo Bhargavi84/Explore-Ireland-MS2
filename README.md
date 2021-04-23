@@ -30,56 +30,56 @@ ___
 
 ## UX
 ___
-### **User Stories - The website will help to:**
+### **User Stories:**
 ___
-* **People with no travel ideas or deciding where to travel:**
-    * As a user I want to get inspiration for my next travel destination.
-    * As a user I want to be able to understand what kind of place I am being offered and explore it from the comfort of my own home.    
-    * As a user I want to read more about the information that I'm interested in.   
-    * As a user I want to know how interactive the website is.
+*  **Olivia is first time traveller(user) to Ireland with no travel ideas or deciding where to travel:**
+    * As a user she wants to get inspiration for her next travel destination.
+    * As a user she wants to be able to understand what kind of place she is being offered and explore it from the comfort of her home.    
+    * As a user she wants to read more about the information that she is interested in.   
+    * As a user she wants to know how interactive the website is.
 
 
-* **People while making online bookings**
-    * As a user I want to find out latest Covid-19 travel advice Ireland.
-    * As a user I can easily use and accessible simple navigation bar to select the section of the website.
-    * As a user I want to see random images of new locations I could visit.
-    * As a user I can click the featured button to receive a newsletter for more updates.
+* **William observers the below points while making online bookings**
+    * As a user he wants to find out latest Covid-19 travel advice in Ireland.
+    * As a user he can easily use and accessible simple navigation bar to select the section of the website.
+    * As a user he wants to see random images of new locations he could visit.
+    * As a user he can click the featured button to receive a newsletter for more updates.
 
 
-* **People who are travelling inside the Ireland**
-    * As a user I want to to use the map to find exiting places to visit and make quick decisions.
-    * As a user I want to use the website's Social Media for more inspiration.
-    * As a user I want to get in touch if I have any queries.
+* **Darragh who is travelling inside the Ireland**
+    * As a user he wants to to use the map to find exiting places to visit and make quick decisions.
+    * As a user he wants to use the website's Social Media for more inspiration.
+    * As a user he wants to get in touch, if he has any queries.
 
 
-### Strategy
+### **Strategy**
 ___
-**Website goals:**
+**Objectives:**
 * To provide a finest experience to explore Ireland to all new travellers.
 * To promote and convey the History,Culture and Beauty of the country.
 * To know the  information about main sport of Ireland, The Gaelic, The football game.
 * To draw attention to the best places to visit.
-* To know about the History and culture and rich Heritage of Ireland.
-* To ensure users are able to send their queries through the Contact Form.
+* To know about the History and food culture and rich Heritage of Ireland.
+* To ensure users are able to send their message or queries through the Contact Form.
 
-### Scope
+### **Scope**
 ___
 To create a website that will help the users get motivated to plan their travel destination to Ireland. 
 The website has been divided into different section so that user can easily look into that and the infomation are easy and understanble way so that  they can plan their next trip.
 
-### Structure
+### **Structure**
 ___
 The  webpage is a single page website that contains four sections: Home, History and culture, Explore and Contact.
 To navigate to different section on the website, users need to click navigation links that allow them to jump to desired sections of the content or scroll down the page.
 
-### Skeleton 
+### **Skeleton** 
 ___
 * [Desktop wireframes](assets/wireframes/Explore-Ireland-Desktop.png)
 * [Mobile / tablet wireframes](assets/wireframes/Explore-Ireland-Mobile_Tablet.png)
 
-### Surface
+### **Surface**
 ___
-The webpage is Simple and white background, minimum design, easily accessible navigation bar, amazing images of "Explore Ireland". This will allow users to explore the destination from their comfort zone, if they are looking for a guide to a specific location or just browsing for the next trip inspiration.
+The webpage is Simple and white background, minimum design, easily accessible navigation bar, amazing images of "Explore Ireland". This will allow users to explore the destination from their comfort zone, if they are looking for a guide to a specific location or just browsing for getting inspiration.
 
 ## Technologies Used 
 ___
@@ -230,7 +230,7 @@ as intended, allowing 5 seconds delay between automatically fading the images.
 ## Testing
 ___
  This website has been tested by sharing it with family members and friends. The Feedback of the website was Simple and yet very informative and user-interactive easily conveys the purpose of the website. This Website has been loaded  in the multiple devices at the same time and without any errors / issues the website has been loaded. The card and carousel images were slightly resized and compressed to improve the loading speed of the website.
- * The below snapshot is an observation / feedback from one of the friend. This will be featured and implemented in my future projects.
+ * The below snapshot is an observation / feedback from one of the friends. This will be featured and implemented in future milestone projects.
  ![plot](assets/images/feedback.jpg)
 
 ### Performance Monitoring
