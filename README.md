@@ -9,6 +9,9 @@ ___
 * The aim of this website is to promote Ireland as a travel destination.The Emerald Isle is fantastic for road trips, for hiking, discovering castles, eating seafood and sipping on whiskey. On top of the many buzzing cities, you could also explore the natural wonders and quaint villages that make up the countryside. It may conjure up images of green rolling hills, rugged seaside cliffs, and windswept rock formations. When you visit this Celtic country, you will be rewarded with all that and more!
 
 ___
+
+[Webpage link](https://bhargavi84.github.io/Explore-Ireland-MS2/)
+
 ### Table of contents
 
   * [About](#about)
@@ -177,32 +180,32 @@ ___
 ___
 ### Functionality Testing
 ___
-* **Navigation Bar**
+### **Navigation Bar**
 * The navbar is fixed and placed on top of the page and always visible on all screen sizes.
 * All the links on the navbar have been clicked to test and are working as expected, allowing users to jump to the linked page.
 * Navbar Brand logo is linked to the Home page and is working as expected.
 * The navbar collapses into a hamburger menu on screen sizes smaller than 768px. A navigation menu appears 
     when you click on the hamburger icon. This has been tested and working as expected.
 
-* **Covid-19 Alert Tab**
-    *"Latest travel advice" link, when clicked, takes users to the Ireland's page of the Irish Government's Foreign Travel Advice website. 
+### **Covid-19 Alert Tab**
+* "Latest travel advice" link, when clicked, takes users to the Ireland's page of the Irish Government's Foreign Travel Advice website. 
 
-* **Image Carousel**
+### **Image Carousel**
 * Bootstrap Image carousel takes up the full page as designed and cycles through the images. The time delay attribute is functioning 
 as intended, allowing 5 seconds delay between automatically fading the images.
 * Carousel-fade animation is working properly and allows a fade transition instead of a slide.
 * Next and Previous controls have been clicked to test and are working as expected, taking users to the previous / next carousel image.
 
-* **Cards Section**
+### **Cards Section**
 * Cards section images have been tested by hovering over them as expected. 
 * All three Show more / Show less buttons change color on hover and display more / less text when clicked.
 * Cards section is almost responsive in all screen sizes and works as designed, each taking the 100% width of the screen.
 
-* **Map Section**
+### **Map Section**
 * Google Map markers are been for the testing purposes and are functioning properly. By clicking on the markers, the respective info bar content appears in the "gamebar" section inside the card, located to the right of the map on medium and larger screens and below of the map on small screen sizes.
 * All the location markers inside the map has been correctly located with correct latitude and longitude values of the places.
 
-* **Contact Form**
+### **Contact Form**
 * The Contact form has been tested by submitting the form with one or more empty required fields. This returns an error message requesting to fill in all the required fields.
 * When a text input entered into an email field it returns an error "@ sign should be included in the email address". 
  **Note** : The Email field doesn't stop users from entering incorrect or meaningless email address(though it has @ symbol).
@@ -212,11 +215,11 @@ as intended, allowing 5 seconds delay between automatically fading the images.
 * When the form has been submitted, users will be able to see a  customized SweetAlert2 message to confirm their action has been successful / failed. This has been tested and is working as expected.
 * The Contact Form has been correctly linked to EmailJS and sends an email every time users submit the form.
      
-* **Go to Top button**
+### **Go to Top button**
 * The Top button which is inserted just below the contact form right side of the screen. When the user wants to go to the top of the page can quickly click on this button.
 * The button is tested and when clicked it will take to the top of the screen, works as expected.
 
-* **Footer**
+### **Footer**
 * Footer is responsive and always stays on the bottom of the page. and is working as intended.
 * Change of colour and transition effects on hovering over Social Icons have been tested and working as intended.
 * Click on each Social icon all the links are functioning as intended and opens in new tab.
@@ -230,6 +233,7 @@ ___
 ### Performance Monitoring
 ___
 Performance monitoring was performed using Chrome Developer Tools. The performance and accessibility results for desktop devices.
+
 ![plot](assets/images/testing.jpg)
 
 ### Responsive Testing
