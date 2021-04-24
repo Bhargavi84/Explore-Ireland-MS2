@@ -73,8 +73,8 @@ To navigate to different section on the website, users need to click navigation 
 
 ### **Skeleton** 
 ___
-* [Desktop wireframes](assets/wireframes/Explore-Ireland-Desktop.png)
-* [Mobile / tablet wireframes](assets/wireframes/Explore-Ireland-Mobile_Tablet.png)
+* [Desktop wireframes](assets/wireframes/explore-ireland-desktop.png)
+* [Mobile / tablet wireframes](assets/wireframes/explore-ireland-mobile_tablet.png)
 
 ### **Surface**
 ___
